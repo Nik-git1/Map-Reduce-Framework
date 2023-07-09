@@ -1,0 +1,13 @@
+Be: input.txt  
+afraid: input.txt  
+of: input.txt  
+Some: input.txt  
+born: input.txt  
+some: input.txt  
+others: input.txt  
+have: input.txt  
+thrust: input.txt  
+upon: input.txt  
+them: input.txt  
+Work: input2.txt  
+is: input2.txt  

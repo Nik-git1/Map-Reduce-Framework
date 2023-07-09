@@ -1,0 +1,10 @@
+not: input.txt  input2.txt  
+greatness: input.txt  
+are: input.txt  
+great: input.txt  
+achieve: input.txt  
+and: input.txt  
+worship: input2.txt  
+Worship: input2.txt  
+faith: input2.txt  
+Faith: input2.txt  

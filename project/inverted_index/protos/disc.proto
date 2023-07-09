@@ -1,0 +1,35 @@
+syntax="proto3";
+
+package disc;
+import "google/protobuf/timestamp.proto";
+
+service RegisterReplicaService{
+    rpc mapper(str) returns (StringInt32Dictionary);
+    rpc reducer(red)returns(void);
+}
+message void{
+
+}
+message str{
+    string s=1;
+}
+message red{
+  repeated string mappers=1;
+  int32 no_red=2;
+  int32 mod=3; 
+}
+// message int32{
+//     int val=1;
+// }
+message StringInt32Dictionary{
+  repeated string values = 1;
+  repeated string keys=2; 
+
+}
+message list {
+  repeated string values = 1;
+}
+message listoflist{
+  repeated list l=1;
+  repeated string keys=2;  
+}

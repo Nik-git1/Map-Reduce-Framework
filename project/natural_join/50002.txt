@@ -1,0 +1,4 @@
+John, (Role:CEO)
+Tom, (Role:Manager)
+Kevin, (Role:Intern) (Role:Chairman)
+Nick, (Role:Associate)

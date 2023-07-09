@@ -1,0 +1,14 @@
+This: 1
+is: 2
+an: 1
+in: 1
+Be: 1
+afraid: 1
+of: 1
+Some: 2
+born: 1
+others: 1
+have: 1
+thrust: 1
+upon: 1
+them: 1
